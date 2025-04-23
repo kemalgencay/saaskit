@@ -73,7 +73,7 @@ export default function Footer() {
           <IconBrandDiscord class="size-6" />
         </a>
         <a
-          href="https://github.com/denoland/saaskit"
+          href="https://github.com/kemalgencay/saaskit"
           target="_blank"
           rel="noopener noreferrer"
           aria-label="Deno SaaSKit repo on GitHub"
